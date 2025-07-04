@@ -12,10 +12,10 @@ export default function Dashboard() {
       .catch(err => {
         console.error("Failed to fetch metrics. Using static fallback.", err);
         setMetrics({
-          totalRooms: 20,
-          occupiedRooms: 14,
-          bookingsToday: 5,
-          revenueToday: 42000,
+          totalRooms:3,
+          occupiedRooms: 1,
+          bookingsToday: 1,
+          revenueToday: 100,
         });
       });
   }, []);
