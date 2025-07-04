@@ -1,0 +1,46 @@
+/* src/styles/navbar.css */
+nav {
+  grid-area: nav;
+  background: #3f51b5;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.5rem;
+  letter-spacing: 0.03em;
+}
+
+.logo a {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #fff;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.nav-links a {
+  opacity: 0.9;
+  transition: opacity 0.15s;
+}
+
+.nav-links a:hover {
+  opacity: 1;
+}
+
+.logout-btn {
+  background: none;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  font: inherit;
+  padding: 0;
+  opacity: 0.9;
+  transition: opacity 0.15s;
+}
+.logout-btn:hover {
+  opacity: 1;
+}

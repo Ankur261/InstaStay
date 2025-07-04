@@ -1,0 +1,25 @@
+/* src/styles/dashboard.css */
+.dashboard-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+.dash-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 1.4rem 1.2rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,.06);
+  text-align: center;
+}
+
+.dash-card h3 {
+  font-size: 2rem;
+  margin-bottom: 0.25rem;
+  color: #3f51b5;
+}
+
+.dash-card p {
+  color: #555;
+  font-size: 0.9rem;
+}

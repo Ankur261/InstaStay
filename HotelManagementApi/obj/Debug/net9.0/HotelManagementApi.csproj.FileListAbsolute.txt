@@ -1,0 +1,338 @@
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\appsettings.Development.json
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\appsettings.json
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\HotelManagementApi.staticwebassets.endpoints.json
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\HotelManagementApi.exe
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\HotelManagementApi.deps.json
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\HotelManagementApi.runtimeconfig.json
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\HotelManagementApi.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\HotelManagementApi.pdb
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Azure.Core.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Azure.Identity.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\BCrypt.Net-Core.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Humanizer.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\crypto.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\System.ClientModel.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\System.CodeDom.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\System.Memory.Data.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.csproj.AssemblyReference.cache
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.AssemblyInfoInputs.cache
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.AssemblyInfo.cs
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.csproj.CoreCompileInputs.cache
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.MvcApplicationPartsAssemblyInfo.cs
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.MvcApplicationPartsAssemblyInfo.cache
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\scopedcss\bundle\HotelManagementApi.styles.css
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\staticwebassets.build.json
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\staticwebassets.development.json
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\HotelMan.D90703A1.Up2Date
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\refint\HotelManagementApi.dll
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.pdb
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.genruntimeconfig.cache
+D:\CDAC\10_DOTNET\LabWork\HotelManagementApi\obj\Debug\net9.0\ref\HotelManagementApi.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\appsettings.Development.json
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\appsettings.json
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\HotelManagementApi.staticwebassets.endpoints.json
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\HotelManagementApi.exe
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\HotelManagementApi.deps.json
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\HotelManagementApi.runtimeconfig.json
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\HotelManagementApi.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\HotelManagementApi.pdb
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Azure.Core.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Azure.Identity.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\BCrypt.Net-Core.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Humanizer.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\crypto.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\System.ClientModel.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\System.CodeDom.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\System.Memory.Data.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.csproj.AssemblyReference.cache
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.AssemblyInfoInputs.cache
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.AssemblyInfo.cs
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.csproj.CoreCompileInputs.cache
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.MvcApplicationPartsAssemblyInfo.cs
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.MvcApplicationPartsAssemblyInfo.cache
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\scopedcss\bundle\HotelManagementApi.styles.css
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\staticwebassets.build.json
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\staticwebassets.development.json
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\HotelMan.D90703A1.Up2Date
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\refint\HotelManagementApi.dll
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.pdb
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\HotelManagementApi.genruntimeconfig.cache
+E:\CDAC PG-DAC Course\dotnet\HotelManagementApi\obj\Debug\net9.0\ref\HotelManagementApi.dll

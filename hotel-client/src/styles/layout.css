@@ -1,0 +1,31 @@
+.layout {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  grid-template-rows: 64px 1fr;
+  grid-template-areas:
+    "nav nav"
+    "side content";
+  height: 100vh;
+}
+
+nav {
+  grid-area: nav;
+  background: #3f51b5;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 0 1rem;
+}
+
+aside {
+  grid-area: side;
+  background: #fff;
+  border-right: 1px solid #e0e0e0;
+  padding: 1rem;
+}
+
+.content {
+  grid-area: content;
+  padding: 1.5rem;
+  overflow-y: auto;
+}
